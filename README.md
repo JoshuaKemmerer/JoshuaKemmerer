@@ -1,4 +1,4 @@
-<h1 align="center">Hey, I'm Joshua Kemmerer! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h1>
+<h1 align="center">Hey, I'm Joshua Kemmerer!</h1>
 
 <p align="center"> <img src="https://octodex.github.com/images/stormtroopocat.png" height="160px" width="160px"></p>
 
@@ -40,5 +40,5 @@ Skill Rubric: 1 - Novice; 2 - Advanced Beginner; 3 - Competent; 4 - Proficient; 
 ![Microsoft Azure](https://img.shields.io/badge/-Microsoft%20Azure-03b2e8?style=for-the-badge&logo=microsoftazure&logoColor=white)
 ![Amazon Web Services](https://img.shields.io/badge/-AWS-f29100?style=for-the-badge&logo=amazonaws&logoColor=white)
 
-<!-- ![Visits](https://visitor-badge.glitch.me/badge?page_id=JoshuaKemmerer.JoshuaKemmerer&left_color=green&right_color=red) -->
+![Visits](https://visitor-badge.glitch.me/badge?page_id=JoshuaKemmerer.JoshuaKemmerer&left_color=green&right_color=red)
 
